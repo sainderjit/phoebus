@@ -46,7 +46,7 @@ of the rule are accessible in the expression.
 
     - -1 - Invalid
 
-    - 0 - OK
+    - 0 - OK 
 
     - 1 - Minor
 
